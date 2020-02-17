@@ -1,3 +1,5 @@
+[![Build Status](https://statoildeveloper.visualstudio.com/Statoil.NextGenProCoSys/_apis/build/status/UITEST/Digipix.pipelines-dotnet-core?branchName=master)](https://statoildeveloper.visualstudio.com/Statoil.NextGenProCoSys/_build/latest?definitionId=211&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
